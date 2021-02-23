@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394430023098",
+    "firebase_url": "https://vponnur-chitchat.firebaseio.com",
+    "project_id": "vponnur-chitchat",
+    "storage_bucket": "vponnur-chitchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394430023098:android:1fbcec1ff38cbbc779c983",
+        "android_client_info": {
+          "package_name": "com.vponnur.ChitChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394430023098-sljpbaqdl03ae7pcb25lbsl0a5bk0945.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjVq9-fRCRmnu503fO0fyK0tlpZoh4wMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394430023098-sljpbaqdl03ae7pcb25lbsl0a5bk0945.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
